@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Ruby on Rails project
+- 🔭 I’m currently working on a Chrome Extension as a side project
 - 💼 I'm looking for a full time software developer job 
 - 📫 How to reach me: deogan@uwindsor.ca
 - ✨ I'm great at Python 🐍 and web development 💻 
