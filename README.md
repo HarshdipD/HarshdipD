@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Chrome Extension as a side project
+- 🔭 I’m currently working on a Chrome Extension as a side project (https://github.com/HarshdipD/job-tracker)
 - 💼 I'm looking for a full time software developer job 
 - 📫 How to reach me: deogan@uwindsor.ca
+- 🌐 My website: <a href="https://www.hsdeogan.com">hsdeogan.com</a>
 - ✨ I'm great at Python 🐍 and web development 💻 
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshdipD&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/HarshdipD/github-readme-stats)
